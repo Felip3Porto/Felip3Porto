@@ -1,6 +1,6 @@
 ## 🫵 Consume me! 
 
-- 🔬📑 I’m currently working on getting a job so I don't starve (🇺🇸\#1), finishing some paperwork I made during my PhD, and making some prototypes for games my girlfriend and I talk about. 
+- 🔬📑 I’m currently working on finishing some paperwork I made during my PhD, and making some prototypes for games my girlfriend and I talk about. 
 - 🌱 I’m currently learning cloud computing and 2D game development. 
 - 🫡 I’m looking to collaborate on coral symbiosis work, researching transcriptional regulation, and anything worth doing. 
 - 🧔🏼‍♂️ Pronouns: he/him
