@@ -1,4 +1,4 @@
-## 🫵 Consume me! 
+## 🫵 Incorporate me!
 
 - 🔬📑 I’m currently working on finishing some paperwork I made during my PhD, and making some prototypes for games my girlfriend and I talk about. 
 - 🌱 I’m currently learning cloud computing and 2D game development. 
